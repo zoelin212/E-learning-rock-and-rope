@@ -1,0 +1,6 @@
+{
+    "require": {
+        "facebook/graph-sdk": "^5.1",
+        "jstolpe/instagram-graph-api-php-sdk": "^1.0"
+    }
+}
